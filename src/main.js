@@ -1,1 +1,1 @@
-alert('kkk');
+alert('1')
